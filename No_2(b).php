@@ -1,5 +1,5 @@
 <?php 
-  require_once 'No_2.php';
+  require_once 'No_2(a).php';
 ?>
 
 <!DOCTYPE html>
